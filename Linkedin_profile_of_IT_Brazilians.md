@@ -102,3 +102,4 @@ William G. Comnisky | Developer | [https://www.linkedin.com/in/wcomnisky/](https
 William Remor | Business Analyst / Data Analyst | [https://www.linkedin.com/in/william-remor-29149934/](https://www.linkedin.com/in/william-remor-29149934/)
 Yuri Cardoso | Developer | [https://www.linkedin.com/in/yuricardoso/](https://www.linkedin.com/in/yuricardoso/)
 Yuri Vasconcelos | Developer | [https://www.linkedin.com/in/yurivasconcelos/](https://www.linkedin.com/in/yurivasconcelos/)
+Tiago Oscar Hubner | Business Intelligence / Qlik Sense | [https://www.linkedin.com/in/tiagoohubner/] (https://www.linkedin.com/in/tiagoohubner/)
