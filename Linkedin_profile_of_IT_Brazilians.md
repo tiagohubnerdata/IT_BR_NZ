@@ -94,6 +94,7 @@ Samir Itani | Support Analyst | [https://www.linkedin.com/in/sitani/](https://ww
 Sandra Rossi | SAP | [https://www.linkedin.com/in/sandra-rossi-2716571b/](https://www.linkedin.com/in/sandra-rossi-2716571b/)
 Saulo Araujo | Systems Engineer | [https://www.linkedin.com/in/saulov8/](https://www.linkedin.com/in/saulov8/)
 Shay Camlot Bogomoltz | IT Consultancy| [https://www.linkedin.com/in/shaycb/](https://www.linkedin.com/in/shaycb/)
+Tiago Oscar Hubner | Data Analytics | [https://www.linkedin.com/in/tiagoohubner/] (https://www.linkedin.com/in/tiagoohubner/)
 Tatiana Midori Morimoto | Front-end developer, UX/UI Designer | [https://www.linkedin.com/in/tatiana-midori-morimoto-22062873/](https://www.linkedin.com/in/tatiana-midori-morimoto-22062873/)
 Vanessa La Luna | QA | [https://nz.linkedin.com/in/nessalaluna](https://nz.linkedin.com/in/nessalaluna)
 Vinicius Paiva da Silva | Developer | [https://www.linkedin.com/in/vinicius-da-silva-50963923/](https://www.linkedin.com/in/vinicius-da-silva-50963923/)
